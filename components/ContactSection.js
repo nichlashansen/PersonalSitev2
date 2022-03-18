@@ -11,7 +11,7 @@ tage en kop kaffe sammen så vi kan snakke
 nærmere. <br/><br/>Jeg ser frem til at høre fra dig</p>
 </div><div className={Styles.ContactSection__IconGrid}>
                 <FaEnvelope className={Styles.ContactSection__Icon}/>
-                <p className='Italic'>Nichlas@nichlasbirkholm.com</p>
+                <p className='Italic'>Nichlash3@gmail.com</p>
                 <FaSms className={Styles.ContactSection__Icon}/>
                 <p className='Italic'>+45 6013 6761</p>
             
